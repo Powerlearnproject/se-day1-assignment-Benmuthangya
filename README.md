@@ -26,7 +26,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance- Ongoing updates, bug fixes, and enhancements.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-> Watwrfall: sequential, rigid, and plan-driven. Suitable for well-defined projects with stable requirements.
+> Waterfall: sequential, rigid, and plan-driven. Suitable for well-defined projects with stable requirements.
 >Agile: iterative, flexible, and customer-centric. Ideal for projects with stable requirements and rapid changes.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
